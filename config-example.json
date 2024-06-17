@@ -17,6 +17,10 @@
         {
           "name": "remove_or_replace_with_your_subdomain",
           "proxied": false
+        },
+        {
+          "name": "remove_or_replace_with_your_subdomain",
+          "ip_override": "127.0.0.1"
         }
       ]
     }
